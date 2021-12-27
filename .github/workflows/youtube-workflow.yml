@@ -29,4 +29,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
+          commit_message: "Updated README with latest YouTube video"
           feed_list: "https://youtube.com/feeds/videos.xml?channel_id=UCisFyyuGQyco-ZCZHlOJoVw"
