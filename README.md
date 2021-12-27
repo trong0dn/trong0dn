@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Python and LeetCode**
 
-## Latest YouTube Videos
+### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [December 27/2021 LeetCode Challenge: Number Complement](https://www.youtube.com/watch?v=xExdoCreFh8)
 - [December 24/2021 LeetCode Challenge: Merge Intervals](https://www.youtube.com/watch?v=cOeF9j3TEx0)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - [October 6/2021 LeetCode Challenge: Find All Duplicates in an Array](https://www.youtube.com/watch?v=eCYHuvhNGuI)
 <!-- YOUTUBE:END -->
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
   <a href="https://twitter.com/trong0dn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trong0dn" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/trongd-nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trongd-nguyen" height="30" width="40" /></a>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <a href="https://www.leetcode.com/trong0dn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trong0dn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
