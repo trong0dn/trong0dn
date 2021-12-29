@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [December 28/2021 LeetCode Challenge: Middle of the Linked List](https://www.youtube.com/watch?v=-SVyMm7GLTA)
 - [December 27/2021 LeetCode Challenge: Number Complement](https://www.youtube.com/watch?v=xExdoCreFh8)
 - [December 24/2021 LeetCode Challenge: Merge Intervals](https://www.youtube.com/watch?v=cOeF9j3TEx0)
 - [December 21/2021 LeetCode Challenge: Reorder List](https://www.youtube.com/watch?v=4tYo28PIVgM)
 - [December 20/2021 LeetCode Challenge: Power of Two](https://www.youtube.com/watch?v=Qpt142bu2P4)
-- [October 6/2021 LeetCode Challenge: Find All Duplicates in an Array](https://www.youtube.com/watch?v=eCYHuvhNGuI)
 <!-- YOUTUBE:END -->
 
 ### Connect with me:
