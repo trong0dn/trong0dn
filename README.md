@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [December 30/2021 LeetCode Challenge: Smallest Integer Divisible by K](https://www.youtube.com/watch?v=PObNTbOQoME)
 - [December 29/2021 LeetCode Challenge: Populating Next Right Pointers in Each Node](https://www.youtube.com/watch?v=PaxcDywLYGc)
 - [December 28/2021 LeetCode Challenge: Middle of the Linked List](https://www.youtube.com/watch?v=-SVyMm7GLTA)
 - [December 27/2021 LeetCode Challenge: Number Complement](https://www.youtube.com/watch?v=xExdoCreFh8)
 - [December 24/2021 LeetCode Challenge: Merge Intervals](https://www.youtube.com/watch?v=cOeF9j3TEx0)
-- [December 21/2021 LeetCode Challenge: Reorder List](https://www.youtube.com/watch?v=4tYo28PIVgM)
 <!-- YOUTUBE:END -->
 
 ### Connect with me:
