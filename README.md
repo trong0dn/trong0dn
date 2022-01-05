@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [January 2/2022 LeetCode Challenge: Find the Town Judge](https://www.youtube.com/watch?v=F_4ukF0JHZ8)
-- [January 02/2022 LeetCode Challenge: Pairs of Songs With Total Durations Divisible by 60](https://www.youtube.com/watch?v=gQEG87Iij9E)
+- [January 5/2022 LeetCode Challenge: Palindrome Partitioning](https://www.youtube.com/watch?v=IugGFZCAVHI)
+- [January 4/2022 LeetCode Challenge: Complement of Base 10 Integer](https://www.youtube.com/watch?v=IRjfM7exUws)
+- [January 3/2022 LeetCode Challenge: Find the Town Judge](https://www.youtube.com/watch?v=F_4ukF0JHZ8)
+- [January 2/2022 LeetCode Challenge: Pairs of Songs With Total Durations Divisible by 60](https://www.youtube.com/watch?v=gQEG87Iij9E)
 - [December 31/2021 LeetCode Challenge: Maximum Difference Between Node and Ancestor](https://www.youtube.com/watch?v=K2cCpPLpdV4)
-- [December 30/2021 LeetCode Challenge: Smallest Integer Divisible by K](https://www.youtube.com/watch?v=PObNTbOQoME)
-- [December 29/2021 LeetCode Challenge: Populating Next Right Pointers in Each Node](https://www.youtube.com/watch?v=PaxcDywLYGc)
 <!-- YOUTUBE:END -->
 
 ### Connect with me:
