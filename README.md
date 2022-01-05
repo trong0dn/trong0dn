@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trong0dn&label=Profile%20views&color=0e75b6&style=flat" alt="trong0dn" /> </p>
 
-<!-- 🌱 I’m currently learning **Ruby** -->
+<!-- 🌱 I’m currently learning about **Blockchains** -->
 
 - 👨‍💻 Some of my projects are available at [https://trong0dn.github.io/](https://trong0dn.github.io/)
 
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact" alt="trong0dn" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=trong0dn&show_icons=true&locale=en" alt="trong0dn" /></p>
 
