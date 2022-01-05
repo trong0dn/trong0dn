@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=trong0dn&show_icons=true&locale=en" alt="trong0dn" /></p>
 -->
 
 <h1 align="center">Hi 👋, I'm Trong</h1>
@@ -23,15 +25,6 @@ Here are some ideas to get you started:
 - 👨‍💻 Some of my projects are available at [https://trong0dn.github.io/](https://trong0dn.github.io/)
 
 - 💬 Ask me about **Python and LeetCode**
-
-### Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [January 5/2022 LeetCode Challenge: Palindrome Partitioning](https://www.youtube.com/watch?v=IugGFZCAVHI)
-- [January 4/2022 LeetCode Challenge: Complement of Base 10 Integer](https://www.youtube.com/watch?v=IRjfM7exUws)
-- [January 3/2022 LeetCode Challenge: Find the Town Judge](https://www.youtube.com/watch?v=F_4ukF0JHZ8)
-- [January 2/2022 LeetCode Challenge: Pairs of Songs With Total Durations Divisible by 60](https://www.youtube.com/watch?v=gQEG87Iij9E)
-- [December 31/2021 LeetCode Challenge: Maximum Difference Between Node and Ancestor](https://www.youtube.com/watch?v=K2cCpPLpdV4)
-<!-- YOUTUBE:END -->
 
 ### Connect with me:
 <p align="left">
@@ -58,8 +51,15 @@ Here are some ideas to get you started:
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
+### Latest YouTube Videos:
+<!-- YOUTUBE:START -->
+- [January 5/2022 LeetCode Challenge: Palindrome Partitioning](https://www.youtube.com/watch?v=IugGFZCAVHI)
+- [January 4/2022 LeetCode Challenge: Complement of Base 10 Integer](https://www.youtube.com/watch?v=IRjfM7exUws)
+- [January 3/2022 LeetCode Challenge: Find the Town Judge](https://www.youtube.com/watch?v=F_4ukF0JHZ8)
+- [January 2/2022 LeetCode Challenge: Pairs of Songs With Total Durations Divisible by 60](https://www.youtube.com/watch?v=gQEG87Iij9E)
+- [December 31/2021 LeetCode Challenge: Maximum Difference Between Node and Ancestor](https://www.youtube.com/watch?v=K2cCpPLpdV4)
+<!-- YOUTUBE:END -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=trong0dn&show_icons=true&locale=en" alt="trong0dn" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trong0dn&" alt="trong0dn" /></p>
