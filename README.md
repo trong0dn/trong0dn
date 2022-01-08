@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [January 7/2022 LeetCode Challenge: Linked List Random Node](https://www.youtube.com/watch?v=WYRytv1K81o)
 - [January 6/2022 LeetCode Challenge: Car Pooling](https://www.youtube.com/watch?v=PpSI7Zmd3HU)
 - [January 5/2022 LeetCode Challenge: Palindrome Partitioning](https://www.youtube.com/watch?v=IugGFZCAVHI)
 - [January 4/2022 LeetCode Challenge: Complement of Base 10 Integer](https://www.youtube.com/watch?v=IRjfM7exUws)
 - [January 3/2022 LeetCode Challenge: Find the Town Judge](https://www.youtube.com/watch?v=F_4ukF0JHZ8)
-- [January 2/2022 LeetCode Challenge: Pairs of Songs With Total Durations Divisible by 60](https://www.youtube.com/watch?v=gQEG87Iij9E)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
