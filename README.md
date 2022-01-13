@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [January 12/2022 LeetCode Challenge: Insert into a Binary Search Tree](https://www.youtube.com/watch?v=uNzvcx5FECs)
 - [January 11/2022 LeetCode Challenge: Sum of Root To Leaf Binary Numbers](https://www.youtube.com/watch?v=w3sf_u0vpsw)
 - [January 10/2022 LeetCode Challenge: Add Binary](https://www.youtube.com/watch?v=wOMYZ_QTdS4)
 - [January 7/2022 LeetCode Challenge: Linked List Random Node](https://www.youtube.com/watch?v=WYRytv1K81o)
 - [January 6/2022 LeetCode Challenge: Car Pooling](https://www.youtube.com/watch?v=PpSI7Zmd3HU)
-- [January 5/2022 LeetCode Challenge: Palindrome Partitioning](https://www.youtube.com/watch?v=IugGFZCAVHI)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
