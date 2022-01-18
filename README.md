@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [January 18/2022 LeetCode Challenge: Can Place Flowers](https://www.youtube.com/watch?v=dUzdVkY2zxU)
+- [January 17/2022 LeeCode Challenge: Word Pattern](https://www.youtube.com/watch?v=IXigjWI7pVg)
 - [January 13/2022 LeetCode Challenge: Minimum Number of Arrows to Burst Balloons](https://www.youtube.com/watch?v=iIdt_uUX4fs)
 - [January 12/2022 LeetCode Challenge: Insert into a Binary Search Tree](https://www.youtube.com/watch?v=uNzvcx5FECs)
 - [January 11/2022 LeetCode Challenge: Sum of Root To Leaf Binary Numbers](https://www.youtube.com/watch?v=w3sf_u0vpsw)
-- [January 10/2022 LeetCode Challenge: Add Binary](https://www.youtube.com/watch?v=wOMYZ_QTdS4)
-- [January 7/2022 LeetCode Challenge: Linked List Random Node](https://www.youtube.com/watch?v=WYRytv1K81o)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
