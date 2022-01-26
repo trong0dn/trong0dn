@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [January 25/2022 LeetCode Challenge: Valid Mountain Array](https://www.youtube.com/watch?v=P_3lmjOjV6E)
 - [January 24/2022 LeetCode Challenge: Detect Capital](https://www.youtube.com/watch?v=UGji5voeqes)
 - [January 21/2022 LeetCode Challenge: Gas Station](https://www.youtube.com/watch?v=wePp7_PaXTs)
 - [January 20/2022 LeetCode Challenge: Koko Eating Bananas](https://www.youtube.com/watch?v=aZOaX-gcm5o)
 - [January 19/2022 LeetCode Challenge: Linked List Cycle II](https://www.youtube.com/watch?v=wxGBaph2ulM)
-- [January 18/2022 LeetCode Challenge: Can Place Flowers](https://www.youtube.com/watch?v=dUzdVkY2zxU)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
