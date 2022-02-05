@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [February 4/2022 LeetCode Challenge: Contiguous Array](https://www.youtube.com/watch?v=mgok4Oy4w1c)
 - [February 3/2022 LeetCode Challenge: 4Sum II](https://www.youtube.com/watch?v=EnEgn0jSlfc)
 - [February 1/2022 LeetCode Challenge: Best Time to Buy and Sell Stock](https://www.youtube.com/watch?v=zphAb6H19Vk)
 - [January 31/2022 LeetCode Challenge: Richest Customer Wealth](https://www.youtube.com/watch?v=XQYuoMBykmQ)
 - [January 27/2022 LeetCode Challenge: Maximum XOR of Two Numbers in an Array](https://www.youtube.com/watch?v=eAXSqb1JiCw)
-- [January 26/2022 LeetCode Challenge: All Elements in Two Binary Search Trees](https://www.youtube.com/watch?v=c_eKAKnSMqE)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
