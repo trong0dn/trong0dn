@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [February 8/2022 LeetCode Challenge: Add Digits](https://www.youtube.com/watch?v=Oj_npkcJQbY)
 - [February 7/2022 LeetCode Challenge: Find the Difference](https://www.youtube.com/watch?v=S_6qz_2s8c0)
-- [February 5/2022 LeetCode Challenge: Remove Duplicates from Sorted Array II](https://www.youtube.com/watch?v=dFRoGEsO6qo)
+- [February 6/2022 LeetCode Challenge: Remove Duplicates from Sorted Array II](https://www.youtube.com/watch?v=dFRoGEsO6qo)
 - [February 5/2022 LeetCode Challenge: Merge k Sorted Lists](https://www.youtube.com/watch?v=JNA4muzP-fQ)
 - [February 4/2022 LeetCode Challenge: Contiguous Array](https://www.youtube.com/watch?v=mgok4Oy4w1c)
-- [February 3/2022 LeetCode Challenge: 4Sum II](https://www.youtube.com/watch?v=EnEgn0jSlfc)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
