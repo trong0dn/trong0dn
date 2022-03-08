@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [March 7/2022 LeetCode Challenge: Merge Two Sorted Lists](https://www.youtube.com/watch?v=z5ZDkAjUE6Q)
 - [March 5/2022 LeetCode Challenge: Delete and Earn](https://www.youtube.com/watch?v=3TbBLAFEwbA)
 - [March 2/2022 LeetCode Challenge: Is Subsequence](https://www.youtube.com/watch?v=agEOOd8W7eo)
 - [March 1/2022 LeetCode Challenge: Counting Bits](https://www.youtube.com/watch?v=aV8oT3Aqm0g)
 - [February 28/2022 LeetCode Challenge: Summary Ranges](https://www.youtube.com/watch?v=8O18JrIRCTs)
-- [February 25/2022 LeetCode Challenge: Compare Version Numbers](https://www.youtube.com/watch?v=t_A8xZ2Zzj4)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
