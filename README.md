@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [March 13/2022 LeetCode Challenge: Valid Parentheses](https://www.youtube.com/watch?v=ZWjPfobwqls)
 - [March 11/2022 LeetCode Challenge: Rotate List](https://www.youtube.com/watch?v=bWBv31bm2KI)
 - [March 9/2022 LeetCode Challenge: Remove Duplicates from Sorted List II](https://www.youtube.com/watch?v=0UJCY0qAyQs)
 - [March 8/2022 LeetCode Challenge: Linked List Cycle](https://www.youtube.com/watch?v=E4_eXwM4UNg)
 - [March 7/2022 LeetCode Challenge: Merge Two Sorted Lists](https://www.youtube.com/watch?v=z5ZDkAjUE6Q)
-- [March 5/2022 LeetCode Challenge: Delete and Earn](https://www.youtube.com/watch?v=3TbBLAFEwbA)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
