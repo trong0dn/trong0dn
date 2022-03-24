@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [March 23/2022 LeetCode Challenge: Broken Calculator](https://www.youtube.com/watch?v=eNyqA2lICgc)
 - [March 17/2022 LeetCode Challenge: Score of Parentheses](https://www.youtube.com/watch?v=Pmuf0rWJE9E)
 - [March 16/2022 LeetCode Challenge: Validate Stack Sequences](https://www.youtube.com/watch?v=t6F9Ia5HgG4)
 - [March 15/2022 LeetCode Challenge: Minimum Remove to Make Valid Parentheses](https://www.youtube.com/watch?v=v3fcB23Wxbk)
 - [March 14/2022 LeetCode Challenge: Simplify Path](https://www.youtube.com/watch?v=tdZEQulmHDs)
-- [March 13/2022 LeetCode Challenge: Valid Parentheses](https://www.youtube.com/watch?v=ZWjPfobwqls)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
