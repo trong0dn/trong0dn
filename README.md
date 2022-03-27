@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [March 26/2022 LeetCode Challenge: Binary Search](https://www.youtube.com/watch?v=gFp5gkqmAfY)
 - [March 25/2022 LeetCode Challenge: Two City Scheduling](https://www.youtube.com/watch?v=FTQ_MYGcG0g)
 - [March 24/2022 LeetCode Challenge: Boats to Save People](https://www.youtube.com/watch?v=LEKZe1X5IFM)
 - [March 23/2022 LeetCode Challenge: Broken Calculator](https://www.youtube.com/watch?v=eNyqA2lICgc)
 - [March 17/2022 LeetCode Challenge: Score of Parentheses](https://www.youtube.com/watch?v=Pmuf0rWJE9E)
-- [March 16/2022 LeetCode Challenge: Validate Stack Sequences](https://www.youtube.com/watch?v=t6F9Ia5HgG4)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
