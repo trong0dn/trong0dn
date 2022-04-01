@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [March 31/2022 LeetCode Challenge: Split Array Largest Sum](https://www.youtube.com/watch?v=4LpMMiVYtkA)
 - [March 30/2022 LeetCode Challenge: Search a 2D Matrix](https://www.youtube.com/watch?v=FbpelnrdqQc)
 - [March 29/2022 LeetCode Challenge: Find the Duplicate Number](https://www.youtube.com/watch?v=63-2pCQF8ZY)
 - [March 28/2022 LeetCode Challenge: Search in Rotated Sorted Array II](https://www.youtube.com/watch?v=_tnnjpy2G6c)
 - [March 27/2022 LeetCode Challenge: The K Weakest Rows in a Matrix](https://www.youtube.com/watch?v=H6oksnT7W7k)
-- [March 26/2022 LeetCode Challenge: Binary Search](https://www.youtube.com/watch?v=gFp5gkqmAfY)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
