@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [April 4/2022 LeetCode Challenge: Swapping Nodes in a Linked List](https://www.youtube.com/watch?v=_mPbcTj7tg8)
 - [April 2/2022 LeetCode Challenge: Valid Palindrome II](https://www.youtube.com/watch?v=q9Yus8xNVA4)
 - [April 1/2022 LeetCode Challenge: Reverse String](https://www.youtube.com/watch?v=ZxdToQnNd-4)
 - [March 31/2022 LeetCode Challenge: Split Array Largest Sum](https://www.youtube.com/watch?v=4LpMMiVYtkA)
 - [March 30/2022 LeetCode Challenge: Search a 2D Matrix](https://www.youtube.com/watch?v=FbpelnrdqQc)
-- [March 29/2022 LeetCode Challenge: Find the Duplicate Number](https://www.youtube.com/watch?v=63-2pCQF8ZY)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
