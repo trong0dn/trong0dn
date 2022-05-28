@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [May 27/2022 LeetCode Challenge: Number of Steps to Reduce a Number to Zero](https://www.youtube.com/watch?v=ARZsBrukXcU)
 - [May 26/2022 LeetCode Challenge: Number of 1 Bits](https://www.youtube.com/watch?v=_xDVIrOU6Ps)
 - [May 21/2022 LeetCode Challenge: Coin Change](https://www.youtube.com/watch?v=d1Ir7YgAaH4)
 - [May 17/2022 LeetCode Challenge: Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://www.youtube.com/watch?v=Tl3iVJJRzu4)
 - [May 13/2022 LeetCode Challenge: Populating Next Right Pointers in Each Node II](https://www.youtube.com/watch?v=pr-BdU-gnck)
-- [May 12/2022 LeetCode Challenge: Permutations II](https://www.youtube.com/watch?v=sNQduTZxwTg)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
