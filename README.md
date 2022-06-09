@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [June 8/2022 LeetCode Challenge: Remove Palindromic Subsequences](https://www.youtube.com/watch?v=nVAv6LDi9Eo)
 - [June 7/2022 LeetCode Challenge: Merge Sorted Array](https://www.youtube.com/watch?v=H42dr08qH9w)
 - [June 6/2022 LeetCode Challenge: Intersection of Two Linked Lists](https://www.youtube.com/watch?v=8tdJQjdh4zM)
 - [June 2/2022 LeetCode Challenge: Transpose Matrix](https://www.youtube.com/watch?v=M8p1IMT2-KU)
 - [June 1/2022 LeetCode Challenge: Running Sum of 1d Array](https://www.youtube.com/watch?v=8RlJJToG128)
-- [May 31/2022 LeetCode Challenge: Check If a String Contains All Binary Codes of Size K](https://www.youtube.com/watch?v=d8Rixr1jMiY)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
