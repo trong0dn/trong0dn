@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [June 23/2022 LeetCode Challenge: Course Schedule III](https://www.youtube.com/watch?v=DRbrmYM1z7s)
 - [June 22/2022 LeetCode Challenge: Kth Largest Element in an Array](https://www.youtube.com/watch?v=ID3vgX9Ywns)
 - [June 21/2022 LeetCode Challenge: Furthest Building You Can Reach](https://www.youtube.com/watch?v=PJ-W3KM6zDo)
 - [June 20/2022 LeetCode Challenge: Short Encoding of Words](https://www.youtube.com/watch?v=KyOkBzfxnuY)
 - [June 15/2022 LeetCode Challenge: Longest String Chain](https://www.youtube.com/watch?v=IlgpCR9HRBQ)
-- [June 10/2022 LeetCode Challenge: Longest Substring Without Repeating Characters](https://www.youtube.com/watch?v=zXZV3m2Clkg)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
