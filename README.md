@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [July 6/2022 LeetCode Challenge: Fibonacci Number](https://www.youtube.com/watch?v=PNWDeAuNkeE)
+- [July 5/2022 LeetCode Challenge: Longest Consecutive Sequence](https://www.youtube.com/watch?v=Bm8hFHqQPw0)
 - [July 3/2022 LeetCode Challenge: Wiggle Subsequence](https://www.youtube.com/watch?v=PlmzNup1YP8)
 - [June 30/2022 LeetCode Challenge: Minimum Moves to Equal Array Elements II](https://www.youtube.com/watch?v=T70zeIVIknA)
 - [June 29/2022 LeetCode Challenge: Queue Reconstruction by Height](https://www.youtube.com/watch?v=Q7F8NFEoAYs)
-- [June 28/2022 LeetCode Challenge: Minimum Deletions to Make Character Frequencies Unique](https://www.youtube.com/watch?v=9PXXyWFzXns)
-- [June 27/2022 LeetCode Challenge: Partitioning Into Minimum Number Of Deci Binary Numbers](https://www.youtube.com/watch?v=rzT06ueI6I0)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
