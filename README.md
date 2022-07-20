@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [July 19/2022 LeetCode Challenge: Pascal&#39;s Triangle](https://www.youtube.com/watch?v=_uKUYFdcEZg)
 - [July 14/2022 LeetCode Challenge: Construct Binary Tree from Preorder and Inorder Traversal](https://www.youtube.com/watch?v=iOe-yRKR8MI)
 - [July 11/2022 LeetCode Challenge: Binary Tree Right Side View](https://www.youtube.com/watch?v=iIw9az7nIwk)
 - [July 10/2022 LeetCode Challenge: Min Cost Climbing Stairs](https://www.youtube.com/watch?v=U1IfzMc6690)
 - [July 6/2022 LeetCode Challenge: Fibonacci Number](https://www.youtube.com/watch?v=PNWDeAuNkeE)
-- [July 5/2022 LeetCode Challenge: Longest Consecutive Sequence](https://www.youtube.com/watch?v=Bm8hFHqQPw0)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
