@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [July 28/2022 LeetCode Challenge: Valid Anagram](https://www.youtube.com/watch?v=WNw1Gbnz7Tk)
+- [July 27/2022 LeetCode Challenge: Flatten Binary Tree to Linked List](https://www.youtube.com/watch?v=5lWyy3usHjs)
 - [July 26/2022 LeetCode Challenge: Lowest Common Ancestor of a Binary Tree](https://www.youtube.com/watch?v=-VjJ3MSfxWo)
 - [July 19/2022 LeetCode Challenge: Pascal&#39;s Triangle](https://www.youtube.com/watch?v=_uKUYFdcEZg)
 - [July 14/2022 LeetCode Challenge: Construct Binary Tree from Preorder and Inorder Traversal](https://www.youtube.com/watch?v=iOe-yRKR8MI)
-- [July 11/2022 LeetCode Challenge: Binary Tree Right Side View](https://www.youtube.com/watch?v=iIw9az7nIwk)
-- [July 10/2022 LeetCode Challenge: Min Cost Climbing Stairs](https://www.youtube.com/watch?v=U1IfzMc6690)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
