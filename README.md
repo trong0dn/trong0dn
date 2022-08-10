@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [August 10/2022 LeetCode Challenge: Convert Sorted Array to Binary Search Tree](https://www.youtube.com/watch?v=YqyS9NwAd1I)
 - [August 4/2022 LeetCode Challenge: Mirror Reflection](https://www.youtube.com/watch?v=GdKnHfP1TZM)
 - [August 3/2022 LeetCode Challenge: My Calendar I](https://www.youtube.com/watch?v=_0d-PClX9_I)
 - [August 2/2022 LeetCode Challenge: Kth Smallest Element in a Sorted Matrix](https://www.youtube.com/watch?v=FgiVl79B5f8)
 - [July 28/2022 LeetCode Challenge: Valid Anagram](https://www.youtube.com/watch?v=WNw1Gbnz7Tk)
-- [July 27/2022 LeetCode Challenge: Flatten Binary Tree to Linked List](https://www.youtube.com/watch?v=5lWyy3usHjs)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
