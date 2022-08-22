@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [August 22/2022 LeetCode Challenge: Power of Four](https://www.youtube.com/watch?v=ADnvIt1tBjM)
 - [August 17/2022 LeetCode Challenge: Unique Morse Code Words](https://www.youtube.com/watch?v=IPwOW3lasuo)
 - [August 16/2022 LeetCode Challenge: First Unique Character in a String](https://www.youtube.com/watch?v=4xXRGuKdzGk)
 - [August 15/2022 LeetCode Challenge: Roman to Integer](https://www.youtube.com/watch?v=uu3sCPNxBl0)
 - [August 12/2022 LeetCode Challenge: Lowest Common Ancestor of a Binary Search Tree](https://www.youtube.com/watch?v=sUkuHpkPhmk)
-- [August 10/2022 LeetCode Challenge: Convert Sorted Array to Binary Search Tree](https://www.youtube.com/watch?v=YqyS9NwAd1I)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
