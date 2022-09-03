@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [September 2/2022 LeetCode Challenge: Average of Levels in Binary Tree](https://www.youtube.com/watch?v=OUgOPz7VAG4)
 - [August 26/2022 LeetCode Challenge: Reordered Power of 2](https://www.youtube.com/watch?v=q_bG5hgGrkA)
 - [August 24/2022 LeetCode Challenge: Ransom Note](https://www.youtube.com/watch?v=r9H2dyFWZBs)
 - [August 24/2022 LeetCode Challenge: Power of Three](https://www.youtube.com/watch?v=gvEOL3XhIKs)
 - [August 23/2022 LeetCode Challenge: Palindrome Linked List](https://www.youtube.com/watch?v=Y7Rl4N3qhuA)
-- [August 22/2022 LeetCode Challenge: Power of Four](https://www.youtube.com/watch?v=ADnvIt1tBjM)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
