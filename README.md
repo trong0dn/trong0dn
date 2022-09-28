@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [September 28/2022 LeetCode Challenge: Push Dominoes](https://www.youtube.com/watch?v=CXY3OginNsY)
 - [September 23/2022 LeetCode Challenge: Concatenation of Consecutive Binary Numbers](https://www.youtube.com/watch?v=kIKt3kDe3Kg)
 - [September 22/2022 LeetCode Challenge: Reverse Words in a String III](https://www.youtube.com/watch?v=sOUitUK_JxM)
 - [September 8/2022 LeetCode Challenge: Binary Tree Inorder Traversal](https://www.youtube.com/watch?v=lxequRDr6Hs)
 - [September 7/2022 LeetCode Challenge: Construct String from Binary Tree](https://www.youtube.com/watch?v=v7fr5DF6LK0)
-- [September 6/2022 LeetCode Challenge: Binary Tree Pruning](https://www.youtube.com/watch?v=r9Y3-YW8IQ8)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
