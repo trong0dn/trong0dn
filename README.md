@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [October 17/2022 LeetCode Challenge: Check if the Sentence Is Pangram](https://www.youtube.com/watch?v=3g1_M178Bh0)
 - [October 14/2022 LeetCode Challenge: Delete the Middle Node of a Linked List](https://www.youtube.com/watch?v=8DfNDJaFKPY)
 - [October 13/2022 LeetCode Challenge: Delete Node in a Linked List](https://www.youtube.com/watch?v=x4TrvMjcd0o)
 - [October 12/2022 LeetCode Challenge: Largest Perimeter Triangle](https://www.youtube.com/watch?v=gCw-6qAay7o)
 - [September 28/2022 LeetCode Challenge: Push Dominoes](https://www.youtube.com/watch?v=CXY3OginNsY)
-- [September 23/2022 LeetCode Challenge: Concatenation of Consecutive Binary Numbers](https://www.youtube.com/watch?v=kIKt3kDe3Kg)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
