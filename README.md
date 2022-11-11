@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [November 10/2022 LeetCode Challenge: Remove All Adjacent Duplicates In String](https://www.youtube.com/watch?v=yywboSSzSrc)
 - [November 9/2022 LeetCode Challenge: Online Stock Span](https://www.youtube.com/watch?v=46brHNZ8qS8)
 - [November 8/2022 LeetCode Challenge: Make The String Great](https://www.youtube.com/watch?v=2wXP6nRgoeA)
 - [November 7/2022 LeetCode Challenge: Maximum 69 Number](https://www.youtube.com/watch?v=q9OwG56seCg)
 - [November 4/2022 LeetCode Challenge: Reverse Vowels of a String](https://www.youtube.com/watch?v=REyXsnbpOxA)
-- [October 25/2022 LeetCode Challenge: Check If Two String Arrays are Equivalent](https://www.youtube.com/watch?v=8XDvQA_xR_w)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
