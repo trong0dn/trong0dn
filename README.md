@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [November 16/2022 LeetCode Challenge: Guess Number Higher or Lower](https://www.youtube.com/watch?v=lk1mwLTz4_g)
 - [November 15/2022 LeetCode Challenge: Count Complete Tree Nodes](https://www.youtube.com/watch?v=W_Sutav3iro)
 - [November 13/2022 LeetCode Challenge: Reverse Words in a String](https://www.youtube.com/watch?v=qxa2MJNjgRg)
 - [November 11/2022 LeetCode Challenge: Remove Duplicates from Sorted Array](https://www.youtube.com/watch?v=JPStX9cR4Vs)
 - [November 10/2022 LeetCode Challenge: Remove All Adjacent Duplicates In String](https://www.youtube.com/watch?v=yywboSSzSrc)
-- [November 9/2022 LeetCode Challenge: Online Stock Span](https://www.youtube.com/watch?v=46brHNZ8qS8)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
