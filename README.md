@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [January 2/2023 LeetCode Challenge: Detect Capital](https://www.youtube.com/watch?v=yKbYhAQwik4)
 - [January 1/2023 LeetCode Challenge: Word Pattern](https://www.youtube.com/watch?v=vHDRg-wOeIk)
 - [December 8/2022 LeetCode Challenge: Leaf Similar Trees](https://www.youtube.com/watch?v=F0AxIjv4x_Q)
 - [December 6/2022 LeetCode Challenge: Range Sum of BST](https://www.youtube.com/watch?v=t7PGhfLI8No)
 - [December 5/2022 LeetCode Challenge: Middle of the Linked List](https://www.youtube.com/watch?v=a_DZek5hWPg)
-- [December 1/2022 LeetCode Challenge: Determine if String Halves Are Alike](https://www.youtube.com/watch?v=dz61v5pQ-HA)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
