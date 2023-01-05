@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [January 4/2023 LeetCode Challenge: Minimum Rounds to Complete All Tasks](https://www.youtube.com/watch?v=wuWHsD8hS_0)
 - [January 3/2023 LeetCode Challenge: Delete Columns to Make Sorted](https://www.youtube.com/watch?v=Bl15uAXCSd8)
 - [January 2/2023 LeetCode Challenge: Detect Capital](https://www.youtube.com/watch?v=yKbYhAQwik4)
 - [January 1/2023 LeetCode Challenge: Word Pattern](https://www.youtube.com/watch?v=vHDRg-wOeIk)
 - [December 8/2022 LeetCode Challenge: Leaf Similar Trees](https://www.youtube.com/watch?v=F0AxIjv4x_Q)
-- [December 6/2022 LeetCode Challenge: Range Sum of BST](https://www.youtube.com/watch?v=t7PGhfLI8No)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
