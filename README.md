@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trong0dn&label=Profile%20views&color=0e75b6&style=flat" alt="trong0dn" /> </p>
 
-- 🌱 I’m currently learning about **Selenium Automation Testing**
+- 🌱 I’m currently learning about **Racket**
 
 - 👨‍💻 Some of my projects are available at [https://trong0dn.github.io/](https://trong0dn.github.io/)
 
-- 💬 Ask me about **Python and LeetCode**
+- 💬 Ask me about my **[LeetCode](https://leetcode.com/trong0dn/)** journey
 
 ### Connect with me:
 <p align="left">
