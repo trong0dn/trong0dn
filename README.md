@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [February 6/2023 LeetCode Challenge: Shuffle the Array](https://www.youtube.com/watch?v=peLsLQulraY)
 - [January 17/2023 LeetCode Challenge: Flip String to Monotone Increasing](https://www.youtube.com/watch?v=cZYmYadDiFY)
 - [January 10/2023 LeetCode Challenge: Same Tree](https://www.youtube.com/watch?v=QO_1lZpBuyo)
 - [January 9/2023 LeetCode Challenge: Binary Tree Preorder Traversal](https://www.youtube.com/watch?v=j204vzSrZb4)
 - [January 6/2023 LeetCode Challenge: Maximum Ice Cream Bars](https://www.youtube.com/watch?v=e26-Q8BG6OU)
-- [January 5/2023 LeetCode Challenge: Minimum Number of Arrows to Burst Balloons](https://www.youtube.com/watch?v=FwxvtWo_Lwk)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
