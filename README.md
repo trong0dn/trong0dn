@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [March 6/2023 LeetCode Challenge: Kth Missing Positive Number](https://www.youtube.com/watch?v=nZIpasGGfog)
 - [February 25/2023 LeetCode Challenge: Best Time to Buy and Sell Stock](https://www.youtube.com/watch?v=SnP9zHoz6Bc)
 - [February 21/2023 LeetCode Challenge: Single Element in a Sorted Array](https://www.youtube.com/watch?v=PBeXh3jwxjI)
 - [February 18/2023 LeetCode Challenge: Invert Binary Tree](https://www.youtube.com/watch?v=20DOLnRV48Y)
 - [February 14/2023 LeetCode Challenge: Add Binary](https://www.youtube.com/watch?v=47DvRdWal9w)
-- [February 13/2023 LeetCode Challenge: Count Odd Numbers in an Interval Range](https://www.youtube.com/watch?v=6puJoEHUhu4)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
