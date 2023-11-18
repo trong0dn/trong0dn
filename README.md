@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [November 16/2023 LeetCode Challenge: Minimize Maximum Pair Sum in Array](https://www.youtube.com/watch?v=qR1wNVp2oLw)
 - [July 6/2023 LeetCode Challenge: Minimum Size Subarray Sum](https://www.youtube.com/watch?v=hJ4BzmENR3E)
 - [May 17/2023 LeetCode Challenge: Maximum Twin Sum of a Linked List](https://www.youtube.com/watch?v=IN3ZdOS1DLI)
 - [May 16/2023 LeetCode Challenge: Swap Nodes in Pairs](https://www.youtube.com/watch?v=DVmatanfK1I)
 - [May 2/2023 LeetCode Challenge: Sign of the Product of an Array](https://www.youtube.com/watch?v=rFDeCGha3Vo)
-- [May 1/2023 LeetCode Challennge: Average Salary Excluding the Minimum and Maximum Salary](https://www.youtube.com/watch?v=N9Wng2fQlPA)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
