@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
-- [Maximum Number of Coins You Can Get   LeetCode   Google Chrome 2023 11 23 20 14 29](https://www.youtube.com/watch?v=cKRs4h477uw)
+- [November 23/2023 LeetCode Challenge: Maximum Number of Coins You Can Get](https://www.youtube.com/watch?v=cKRs4h477uw)
 - [November 19/2023 LeetCode Challenge: Reduction Operations to Make the Array Elements Equal](https://www.youtube.com/watch?v=2VKF0-VJOCE)
 - [November 16/2023 LeetCode Challenge: Minimize Maximum Pair Sum in Array](https://www.youtube.com/watch?v=qR1wNVp2oLw)
 - [July 6/2023 LeetCode Challenge: Minimum Size Subarray Sum](https://www.youtube.com/watch?v=hJ4BzmENR3E)
