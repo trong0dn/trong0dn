@@ -53,11 +53,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [December 14/2023 LeetCode Challenge: Destination City](https://www.youtube.com/watch?v=2OJTKU91oeo)
 - [December 12/2023 LeetCode Challenge: Maximum Product of Two Elements in an Array](https://www.youtube.com/watch?v=Mn2ENKFRAl0)
 - [December 11/2023 LeetCode Challenge: Element Appearing More Than 25% In Sorted Array](https://www.youtube.com/watch?v=4NHfw2bAmMA)
 - [December 10/2023 LeetCode Challenge: Transpose Matrix](https://www.youtube.com/watch?v=JoU7S5HkAOc)
 - [December 8/2023 LeetCode Challenge: Construct String from Binary Tree](https://www.youtube.com/watch?v=zLv3unApOrY)
-- [December 7/2023 LeetCode Challenge: Largest Odd Number in String](https://www.youtube.com/watch?v=eHcGiDVtu3I)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
