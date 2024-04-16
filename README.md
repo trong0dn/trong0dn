@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 - 👨‍💻 Some of my projects are available at [https://trong0dn.github.io/](https://trong0dn.github.io/)
 
 - 💬 Ask me about my **[LeetCode](https://leetcode.com/trong0dn/)** journey
-
-<img src="https://github.com/trong0dn/trong0dn/blob/main/assets/2023.gif" alt="leetcode-2023" width="80" height="80" />
+<p align="left">
+  <img src="https://github.com/trong0dn/trong0dn/blob/main/assets/2022-annual.gif" alt="leetcode-2022-badge" width="80" height="80" />
+  <img src="https://github.com/trong0dn/trong0dn/blob/main/assets/2023-annual.gif" alt="leetcode-2023-badge" width="80" height="80" />
+</p>
 
 ### Connect with me:
 <p align="left">
