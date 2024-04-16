@@ -13,18 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=trong0dn&show_icons=true&locale=en" alt="trong0dn" /></p>
--->
+-->!
 
 <h1 align="center">Hi 👋, I'm Trong</h1>
 <h3 align="center">A Software Engineering Student from Canada.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trong0dn&label=Profile%20views&color=0e75b6&style=flat" alt="trong0dn" /> </p>
 
-- 🌱 I’m currently learning about **Static Code Analysis**
+- 🌱 I’m currently learning about **Machine Learning**
 
 - 👨‍💻 Some of my projects are available at [https://trong0dn.github.io/](https://trong0dn.github.io/)
 
 - 💬 Ask me about my **[LeetCode](https://leetcode.com/trong0dn/)** journey
+
+[2023](https://github.com/trong0dn/trong0dn/assets/55768917/ec9f542c-6a40-464e-9ec4-cb9c50833fb4)
 
 ### Connect with me:
 <p align="left">
