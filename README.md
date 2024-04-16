@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about my **[LeetCode](https://leetcode.com/trong0dn/)** journey
 
+<img src="https://github.com/trong0dn/trong0dn/blob/main/assets/2023.gif" alt="leetcode-2023" width="80" height="80" />
+
 ### Connect with me:
 <p align="left">
   <a href="https://twitter.com/trong0dn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trong0dn" height="30" width="40" /></a>
