@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trong0dn&label=Profile%20views&color=0e75b6&style=flat" alt="trong0dn" /> </p>
 
-- 🌱 I’m currently learning about **Machine Learning**
+- 🌱 I’m currently learning about **React Typescript and Springboot Security**
 
 - 👨‍💻 Some of my projects are available at [https://trong0dn.github.io/](https://trong0dn.github.io/)
 
