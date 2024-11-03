@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [November 2/2024 LeetCode Challenge: Rotate String](https://www.youtube.com/watch?v=x6LclwgebOM)
 - [October 15/2024 LeetCode Challenge: Separate Black and White Balls](https://www.youtube.com/watch?v=uk78XCCyvkY)
 - [October 14/2024 LeetCode Challenge: Maximal Score After Applying K Operations](https://www.youtube.com/watch?v=gQcTK-25w8M)
 - [April 1/2024 LeetCode Challenge: Length of Last Word](https://www.youtube.com/watch?v=oVPH41Z6-0M)
 - [February 26/2024 LeetCode Challenge: Same Tree](https://www.youtube.com/watch?v=2tTuRPzFljo)
-- [February 12/2024 LeetCode Challenge: Majority Element](https://www.youtube.com/watch?v=C2GuRn5CpU8)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
