@@ -60,11 +60,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [March 5/2026 LeetCode Challenge: Minimum Changes To Make Alternating Binary String](https://www.youtube.com/watch?v=-032jOGVNZw)
+- [March 4/2026 LeetCode Challenge: Special Positions in a Binary Matrix](https://www.youtube.com/watch?v=S2uOgPSiu4g)
 - [February 18/2026 LeetCode Challenge: Binary Number with Alternating Bits](https://www.youtube.com/watch?v=EOtWwfh8_Do)
 - [February 17/2026 LeetCode Challenge: Binary Watch](https://www.youtube.com/watch?v=jsvyUJm6LvQ)
 - [February 16/2026 LeetCode Challenge: Reverse Bits](https://www.youtube.com/watch?v=0nK5ZVohrfM)
-- [February 10/2025 LeetCode Challenge: Clear Digits](https://www.youtube.com/watch?v=zkaRP2MPK2w)
-- [November 2/2024 LeetCode Challenge: Rotate String](https://www.youtube.com/watch?v=x6LclwgebOM)
 <!-- YOUTUBE:END -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
