@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Trong</h1>
-<h3 align="center">A Software Engineering Student from Canada.</h3>
+<h3 align="center">Slighty adequent developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trong0dn&label=Profile%20views&color=0e75b6&style=flat" alt="trong0dn" /> </p>
 
-- 🌱 I’m currently learning about **React Typescript and Springboot Security**
-
-- 👨‍💻 Some of my projects are available at [https://trong0dn.github.io/](https://trong0dn.github.io/)
-
+- 🔭 I’m currently working on **Full-stack development**
+- 🌱 I’m currently learning about **Malware forensics**
 - 💬 Ask me about my **[LeetCode](https://leetcode.com/trong0dn/)** journey
+
 <p align="left">
   <img src="https://github.com/trong0dn/trong0dn/blob/main/assets/2022-annual.gif" alt="leetcode-2022-badge" width="80" height="80" />
   <img src="https://github.com/trong0dn/trong0dn/blob/main/assets/2023-annual.gif" alt="leetcode-2023-badge" width="80" height="80" />
@@ -34,9 +33,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 <p align="left">
-  <a href="https://twitter.com/trong0dn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trong0dn" height="30" width="40" /></a>
+  <a href="https://x.com/trong0dn" target="blank"><img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="trong0dn" height="30" /></a>
   <a href="https://linkedin.com/in/trongd-nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trongd-nguyen" height="30" width="40" /></a>
-  <a href="https://instagram.com/truly.trong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="truly.trong" height="30" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCisFyyuGQyco-ZCZHlOJoVw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trong" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/trong0dn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trong0dn" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/trong0dn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trong0dn" height="30" width="40" /></a>
@@ -53,10 +51,10 @@ Here are some ideas to get you started:
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="springboot" width="40" height="40"/> </a> 
   <a href="https://prometheus.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="prometheus" width="40" height="40"/> </a>
-  <a href="https://grafana.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="grafana" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://grafana.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="grafana" width="40" height="40"/> </a>=
 </p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trong0dn&" alt="trong0dn" /></p>
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
@@ -66,7 +64,3 @@ Here are some ideas to get you started:
 - [March 4/2026 LeetCode Challenge: Special Positions in a Binary Matrix](https://www.youtube.com/watch?v=S2uOgPSiu4g)
 - [February 18/2026 LeetCode Challenge: Binary Number with Alternating Bits](https://www.youtube.com/watch?v=EOtWwfh8_Do)
 <!-- YOUTUBE:END -->
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trong0dn&show_icons=true&locale=en&layout=compact&hide=Assembly&langs_count=10&theme=radical" alt="trong0dn" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trong0dn&" alt="trong0dn" /></p>
