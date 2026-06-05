@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="springboot" width="40" height="40"/> </a> 
   <a href="https://prometheus.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="prometheus" width="40" height="40"/> </a>
-  <a href="https://grafana.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="grafana" width="40" height="40"/> </a>=
+  <a href="https://grafana.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="grafana" width="40" height="40"/> </a>
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trong0dn&" alt="trong0dn" /></p>
