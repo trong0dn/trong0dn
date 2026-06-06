@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 
 - 🔭 Building production-ready full‑stack applications and APIs
 - 🌱 Learning advanced malware forensics and systems design
-- 💬 Ask me about algorithms, systems design, and my [LeetCode](https://leetcode.com/trong0dn/) journey
 
 ### Featured Achievements
 
-<p align="left">
+- 🤝 Co-creator of 🫧[CodeCleanse](https://marketplace.visualstudio.com/items?itemName=JavaTechNomads.code-cleanse)🫧 Visual Studio IDE plugin: A tool to scan a Java project and detect code smells
+
+- 💬 Ask me about algorithms, systems design, and my [LeetCode](https://leetcode.com/trong0dn/) journey
+<p align="center">
   <img src="assets/2022-annual.gif" alt="leetcode-2022-badge" width="80" height="80" />
   <img src="assets/2023-annual.gif" alt="leetcode-2023-badge" width="80" height="80" />
   <img src="assets/2024-annual.gif" alt="leetcode-2024-badge" width="80" height="80" />
@@ -47,19 +49,16 @@ Here are some ideas to get you started:
 
 <p align="left">
   <!-- Languages -->
-  <strong>Languages:</strong>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/> </a>
   <a href="https://www.php.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="36" height="36"/> </a>
   
   <!-- Web -->
-  <strong>Web:</strong>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/> </a>
   <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/> </a>
   
   <!-- Platforms & Tools -->
-  <strong>Platforms / Tools:</strong>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="springboot" width="36" height="36"/> </a>
   <a href="https://prometheus.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="prometheus" width="36" height="36"/> </a>
